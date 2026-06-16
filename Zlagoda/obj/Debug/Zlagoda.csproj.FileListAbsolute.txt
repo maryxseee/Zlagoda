@@ -1,0 +1,20 @@
+C:\Users\ihors\OneDrive\Рабочий стол\Розробка АІС для регулювання роботи продуктового міні-супермаркету «ZLAGODA»\Zlagoda\bin\Debug\Zlagoda.exe
+C:\Users\ihors\OneDrive\Рабочий стол\Розробка АІС для регулювання роботи продуктового міні-супермаркету «ZLAGODA»\Zlagoda\bin\Debug\Zlagoda.exe.config
+C:\Users\ihors\OneDrive\Рабочий стол\Розробка АІС для регулювання роботи продуктового міні-супермаркету «ZLAGODA»\Zlagoda\obj\Debug\Zlagoda.csproj.AssemblyReference.cache
+C:\Users\ihors\OneDrive\Рабочий стол\Розробка АІС для регулювання роботи продуктового міні-супермаркету «ZLAGODA»\Zlagoda\obj\Debug\Zlagoda.Properties.Resources.resources
+C:\Users\ihors\OneDrive\Рабочий стол\Розробка АІС для регулювання роботи продуктового міні-супермаркету «ZLAGODA»\Zlagoda\obj\Debug\Zlagoda.csproj.GenerateResource.cache
+C:\Users\ihors\OneDrive\Рабочий стол\Розробка АІС для регулювання роботи продуктового міні-супермаркету «ZLAGODA»\Zlagoda\obj\Debug\Zlagoda.csproj.CoreCompileInputs.cache
+C:\Users\ihors\OneDrive\Рабочий стол\Розробка АІС для регулювання роботи продуктового міні-супермаркету «ZLAGODA»\Zlagoda\obj\Debug\Zlagoda.exe
+C:\Users\ihors\OneDrive\Рабочий стол\Розробка АІС для регулювання роботи продуктового міні-супермаркету «ZLAGODA»\Zlagoda\obj\Debug\Zlagoda.pdb
+C:\Users\ihors\OneDrive\Рабочий стол\Розробка АІС для регулювання роботи продуктового міні-супермаркету «ZLAGODA»\Zlagoda\bin\Debug\Zlagoda.pdb
+C:\Users\1\Downloads\zla_shqcfem3.ysu\Zlagoda\bin\Debug\Zlagoda.exe.config
+C:\Users\1\Downloads\zla_shqcfem3.ysu\Zlagoda\bin\Debug\Zlagoda.exe
+C:\Users\1\Downloads\zla_shqcfem3.ysu\Zlagoda\obj\Debug\Zlagoda.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\zla_shqcfem3.ysu\Zlagoda\obj\Debug\Zlagoda.exe.config
+C:\Users\1\Downloads\zla_shqcfem3.ysu\Zlagoda\obj\Debug\Zlagoda.Forms.ManagerForm.resources
+C:\Users\1\Downloads\zla_shqcfem3.ysu\Zlagoda\obj\Debug\Zlagoda.Properties.Resources.resources
+C:\Users\1\Downloads\zla_shqcfem3.ysu\Zlagoda\obj\Debug\Zlagoda.csproj.GenerateResource.cache
+C:\Users\1\Downloads\zla_shqcfem3.ysu\Zlagoda\obj\Debug\Zlagoda.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\zla_shqcfem3.ysu\Zlagoda\obj\Debug\Zlagoda.exe
+C:\Users\1\Downloads\zla_shqcfem3.ysu\Zlagoda\obj\Debug\Zlagoda.pdb
+C:\Users\1\Downloads\zla_shqcfem3.ysu\Zlagoda\bin\Debug\Zlagoda.pdb
